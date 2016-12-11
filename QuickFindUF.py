@@ -78,7 +78,7 @@ def main():
                 #join objects
                 qf_object.union(p_pos, q_pos)
             else:
-                print("Number cannot be grater than size of the object")
+                print("Number cannot be greater than size of the object")
         else:
             qf_object.result()
             print("Exiting...")
