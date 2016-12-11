@@ -1,4 +1,4 @@
-"""This program loops over array and prints it"""
+"""This program is implementation for Quick Find algorithm for connectivity problem"""
 from __future__ import print_function
 
 class QuickFindUF(object):
